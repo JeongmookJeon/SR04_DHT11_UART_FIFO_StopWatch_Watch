@@ -1,0 +1,47 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/ascii_sender.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ascii_sender
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/btn_avg_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module btn_avg_controller
+INFO: [VRFC 10-311] analyzing module tick_gen_1khz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/btn_debounce.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module btn_debounce
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/dht11_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dht11_controller
+INFO: [VRFC 10-311] analyzing module tick_gen_10u
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-311] analyzing module fifo_control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/fnd_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fnd_controller
+INFO: [VRFC 10-311] analyzing module digit_splitter
+INFO: [VRFC 10-311] analyzing module bcd
+INFO: [VRFC 10-311] analyzing module dot_onoff_comp
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-311] analyzing module counter_8
+INFO: [VRFC 10-311] analyzing module decoder_2x4
+INFO: [VRFC 10-311] analyzing module mux_8x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/sr04_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr04_controller
+INFO: [VRFC 10-311] analyzing module tick_gen_1us
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/top_uart_watch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_uart_S_W_D
+INFO: [VRFC 10-311] analyzing module mux_sel_stopwatch_watch_distance
+INFO: [VRFC 10-311] analyzing module ascii_decoder
+INFO: [VRFC 10-311] analyzing module stopwatch_datapath
+INFO: [VRFC 10-311] analyzing module tick_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/uart_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART_TOP
+INFO: [VRFC 10-311] analyzing module uart_rx
+INFO: [VRFC 10-311] analyzing module uart_tx
+INFO: [VRFC 10-311] analyzing module baud_tick
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/watch_datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module watch_datapath
+INFO: [VRFC 10-311] analyzing module tick_counter_watch
+INFO: [VRFC 10-311] analyzing module tick_gen_100hz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sim_1/new/tb_btn_avg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_btn_avg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

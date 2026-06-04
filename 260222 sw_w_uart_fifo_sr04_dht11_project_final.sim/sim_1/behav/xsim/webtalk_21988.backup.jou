@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Feb 22 20:37:15 2026
+# Process ID: 21988
+# Current directory: C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.sim/sim_1/behav/xsim/xsim.dir/tb_btn_avg_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/verilog_jjm/260222 -notrace

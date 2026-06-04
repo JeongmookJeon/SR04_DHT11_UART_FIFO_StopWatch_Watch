@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 11985460 ns : File "C:/verilog_jjm/260222 sw_w_uart_fifo_sr04_dht11_project_final/260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sim_1/new/tb_btn_avg.v" Line 73

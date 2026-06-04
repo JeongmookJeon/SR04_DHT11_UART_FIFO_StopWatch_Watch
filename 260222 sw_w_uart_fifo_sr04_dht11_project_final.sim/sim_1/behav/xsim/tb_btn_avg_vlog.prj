@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/ascii_sender.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/btn_avg_controller.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/btn_debounce.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/control_unit.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/dht11_controller.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/fifo.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/fnd_controller.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/sr04_controller.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/top_uart_watch.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/uart_top.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sources_1/imports/260221 sw_w_uart_fifo_sr04_dht11_2sec_backup_ver.3/watch_datapath.v" \
+"../../../../260222 sw_w_uart_fifo_sr04_dht11_project_final.srcs/sim_1/new/tb_btn_avg.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
